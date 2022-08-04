@@ -1,0 +1,66 @@
+Python 3.8.10 (default, Mar 15 2022, 12:22:08) 
+[GCC 9.4.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> [K>>> cPython 3.8.10 (default, Mar 15 2022, 12:22:08) 
+[GCC 9.4.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> [K>>> import [K[Kf[K[K[K[K[K[Kfrom subprocess import Popen
+>>> p = Popen()').)/)m)a)i)n).)y)[1P)p)y)')[C[Cp./main.py')y./main.py')t./main.py')h./main.py')o./main.py')n./main.py') ./main.py')
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+  File "/usr/lib/python3.8/subprocess.py", line 858, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/usr/lib/python3.8/subprocess.py", line 1704, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+FileNotFoundError: [Errno 2] No such file or directory: 'python ./main.py'
+>>> p = Popen('python ./main.py')[C3 ./main.py')
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+  File "/usr/lib/python3.8/subprocess.py", line 858, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/usr/lib/python3.8/subprocess.py", line 1704, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+FileNotFoundError: [Errno 2] No such file or directory: 'python3 ./main.py'
+>>> p = Popen('python3 ./main.py')[1P ./main.py')[1P ./main.py')[1P ./main.py')[1P ./main.py')[1P ./main.py')
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+  File "/usr/lib/python3.8/subprocess.py", line 858, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/usr/lib/python3.8/subprocess.py", line 1704, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+FileNotFoundError: [Errno 2] No such file or directory: 'py ./main.py'
+>>> p = Popen('py ./main.py')[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kom,[K[K[Kimport requests
+>>> headers_to_send = {'Content-Type': 'application/json', 'Authorization': 'Bearer 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'}
+>>> r = requests.get(
+... 'https://api.openai.com/v1/completions',
+... headers=headers_to_send,
+... params={
+...         "prompt": "I just want to die.  I can't bear it anymore.  \n\n###\n\n",
+...         "max_tokens": 1,
+...         "model": "ada:ft-personal-2022-07-31-18-04-47"
+...     })
+>>> 
+>>> r
+<Response [400]>
+>>> r.text
+'{\n    "error": {\n        "message": "you must provide a model parameter",\n        "type": "invalid_request_error",\n        "param": null,\n        "code": null\n    }\n}\n'
+>>> params={
+...         "prompt": "I just want to die.  I can't bear it anymore.  \n\n###\n\n",
+...         "max_tokens": 1,
+...         "model": "ada:ft-personal-2022-07-31-18-04-47"
+...     }
+>>> params.model
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+AttributeError: 'dict' object has no attribute 'model'
+>>> params['model']
+'ada:ft-personal-2022-07-31-18-04-47'
+>>> r[Kurl = 'https://api.openai.com/v1/completions'
+>>> requests.get(url, h[K[Kheaders=heads[Kers_to_send,params=params)
+<Response [400]>
+>>> requests.get(url,headers=headers_to_send,params=params).text
+'{\n    "error": {\n        "message": "you must provide a model parameter",\n        "type": "invalid_request_error",\n        "param": null,\n        "code": null\n    }\n}\n'
+>>> Python 3.8.10 (default, Mar 15 2022, 12:22:08) 
+[GCC 9.4.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> [K>>> [K>>> [K>>> 

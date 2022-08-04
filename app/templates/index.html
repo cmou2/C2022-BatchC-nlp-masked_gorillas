@@ -1,0 +1,1043 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <title> NLP Therapy Chatbot </title>
+    <meta content="" name="description">
+    <meta content="" name="keywords">
+    <!-- Favicons -->
+    <link href="{{url_for('static', filename = 'assets/img/favicon.png'         )}}" rel="icon">
+    <link href="{{url_for('static', filename = 'assets/img/apple-touch-icon.png')}}" rel="apple-touch-icon">
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com" rel="preconnect">
+    <link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect">
+    <link href=
+    "https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,600;1,700&amp;family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&amp;family=Inter:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&amp;display=swap"rel="stylesheet">
+    
+    <!-- Vendor CSS Files -->
+    
+    <link href="{{url_for('static', filename = 'assets/vendor/bootstrap/css/bootstrap.min.css')}}" rel="stylesheet">
+    <link href="{{url_for('static', filename = 'assets/vendor/bootstrap-icons/bootstrap-icons.css')}}" rel="stylesheet">
+    <link href="{{url_for('static', filename = 'assets/vendor/fontawesome-free/css/all.min.css'   )}}" rel="stylesheet">
+    <link href="{{url_for('static', filename = 'assets/vendor/glightbox/css/glightbox.min.css'    )}}" rel="stylesheet">
+    <link href="{{url_for('static', filename = 'assets/vendor/swiper/swiper-bundle.min.css'       )}}" rel="stylesheet">
+    <link href="{{url_for('static', filename = 'assets/vendor/aos/aos.css'                        )}}" rel="stylesheet">
+    
+    <!-- Template Main CSS File -->
+    <link href="{{url_for('static', filename='assets/css/main.css')}}" rel="stylesheet">
+    
+    <style>
+    .hero {
+      width: 100%;
+      min-height: 50vh;
+      background-color: var(--color-secondary);
+      background-image: url("{{url_for('static', filename = 'assets/img/background-2.png')}}");
+      background-size: cover;
+      background-position: center;
+      position: relative;
+      padding: 120px 0 60px 0;
+      color: rgba(255, 255, 255, 0.8);
+    }
+    </style>
+    
+    <!-- =======================================================
+    * Template Name: Logis - v1.1.0
+    * Template URL: https://bootstrapmade.com/logis-bootstrap-logistics-website-template/
+    * Author: BootstrapMade.com
+    * License: https://bootstrapmade.com/license/
+    ======================================================== -->
+  </head>
+  
+  <body>
+    <!-- ======= Header ======= Team 2-->
+
+    <header class="header d-flex align-items-center fixed-top" id="header">
+      <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
+        <a class="logo d-flex align-items-center" href="#hero">
+          <h1>Masked Gorillas</h1>
+        </a> 
+        <i class="mobile-nav-toggle mobile-nav-show bi bi-list"></i>
+        <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
+        <nav class="navbar" id="navbar">
+          <ul>
+         
+        
+            <li><a href="#hero"             >Home</a></li>
+            <li><a href="#about"            >Introduction</a></li>
+            <li><a href="#featured-services">Data</a></li>
+            <li><a href="#features"         >Conclusion</a></li>
+            <li><a href="#pricing"          >References</a></li>
+            
+            <li><a class="get-a-quote" href="try-our-model">Try Our Model</a></li>
+          </ul>
+        </nav>
+        <!-- .navbar -->
+      </div>
+    </header>
+    <!-- End Header -->
+    <!-- End Header Team 2-->
+    <!-- ======= Hero Section ======= Team 2-->
+
+    <section class="hero d-flex align-items-center" id="hero">
+      <div class="container">
+        <div class="row gy-4 d-flex justify-content-between">
+          <div class="col-lg-6 order-2 order-lg-1 d-flex flex-column justify-content-center">
+            <h2 data-aos="fade-up">NLP Therapy Chatbot</h2>
+            
+            <p data-aos="fade-up" data-aos-delay="100">
+              Your Online Mental Health Solution
+            </p>
+
+            <div class="row gy-4" data-aos="fade-up" data-aos-delay="400">
+              <div class="col-lg-3 col-6">
+                <div class="stats-item text-center w-100 h-100">
+                  <span class="purecounter" data-purecounter-duration="1"
+                  data-purecounter-end="20" data-purecounter-start="0"></span>
+                  <p>
+                    Percent of people suffer from mental issues at any time.
+                  </p>
+                </div>
+              </div>
+              <!-- End Stats Item -->
+
+              <div class="col-lg-3 col-6">
+                <div class="stats-item text-center w-100 h-100">
+                  <span class="purecounter" data-purecounter-duration="1"
+                  data-purecounter-end="10" data-purecounter-start="0"></span>
+                  <p>
+                    Percent of people who suffer from mental issues commit suicide.
+                  </p>
+                </div>
+              </div>
+              <!-- End Stats Item -->
+
+              <div class="col-lg-3 col-6">
+                <div class="stats-item text-center w-100 h-100">
+                  <span class="purecounter" data-purecounter-duration="1"
+                  data-purecounter-end="100" data-purecounter-start="0"></span>
+                  <p>
+                    The average cost(in dollars) of therapy in the United
+                    States
+                  </p>
+                </div>
+              </div>
+              <!-- End Stats Item -->
+
+              <div class="col-lg-3 col-6">
+                <div class="stats-item text-center w-100 h-100">
+                  <span class="purecounter" data-purecounter-duration="1"
+                  data-purecounter-end="76" data-purecounter-start="0"></span>
+                  <p>
+                    Percent of people believe therapy is beneficial for mental health.
+                  </p>
+                </div>
+              </div>
+              <!-- End Stats Item -->
+            </div>
+          </div>
+
+          <div class="col-lg-5 order-1 order-lg-2 hero-img" data-aos="zoom-out">
+            <img src="{{url_for('static', filename='assets/img/monkey.png')}}" img alt="" class="img-fluid mb-3 mb-lg-0"/>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- End Hero Section Team 2-->
+
+    <main id="main">
+      <!-- ======= About Us Section Team 2======= -->
+      <section class="about pt-0" id="about">
+        <div class="container" data-aos="fade-up">
+          <br>
+          <br>
+
+          <div class="row gy-2">
+            <div class=
+            "col-lg-6 position-relative align-self-start order-lg-last order-first">
+              <br>
+              <br>
+              <br>
+              <img alt="" class="img-fluid" src="{{url_for('static', filename = 'assets/img/TedxTalk.jpg')}}">
+              <a class="glightbox play-btn" href="https://www.youtube.com/watch?v=ZkTvw3usMw4&amp;ab_channel=TEDxTalks">
+              </a>
+            </div>
+
+            <div class="col-lg-6 content order-last order-lg-first">
+              <h3>
+                Introduction
+              </h3>
+
+              <p>
+                Professional therapy can be shameful, expensive, time consuming, and difficult to acquire. Thus we made <b>The NLP Therapy Chatbot</b> to solve these problems.
+              </p>
+
+              <ul>
+                <li data-aos="fade-up" data-aos-delay="100">
+                  <i class="bi bi-lightning-charge-fill"></i>
+                  <div>
+                    <h5>
+                      Fast Responses
+                    </h5>
+
+                    <p>
+                      From a user input, a response will be generated, giving
+                      answers in minuets instead of hours
+                    </p>
+                  </div>
+                </li>
+
+                <li data-aos="fade-up" data-aos-delay="200">
+                  <i class="bi bi-unlock-fill"></i>
+                  <div>
+                    <h5>
+                      Accessibility
+                    </h5>
+
+                    <p>
+                      The NLP Therapy bot requires no commuting - you can have therapy from the comfort of your home.
+                    </p>
+                  </div>
+                </li>
+
+                <li data-aos="fade-up" data-aos-delay="300">
+                  <i class="bi bi-piggy-bank-fill"></i>
+                  <div>
+                    <h5>
+                      Free of Cost
+                    </h5>
+
+                    <p>
+                      The NLP Therapy Bot is completely free.
+                    </p>
+                  </div>
+                </li>
+
+                <li data-aos="fade-up" data-aos-delay="300">
+                  <i class="bi bi-person-dash-fill"></i>
+                  <div>
+                    <h5>
+                      No Interaction Required
+                    </h5>
+
+                    <p>
+                      With inputs being passed to an AI instead of a person,
+                      the user can feel comfortable talking about whatever they
+                      need.
+                    </p>
+                  </div>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!-- End About Us Section Team 2-->
+
+      <!--< ===== Pipeline Section ===== -->
+      <section class="page-section" id="pipeline">
+            <div class="container">
+              <div class="section-header">
+            <span>Pipeline</span>
+            <h2>
+              Pipeline
+                </h2>
+              </div>
+                <ul class="timeline">
+                    <li>
+                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="{{url_for('static',filename='assets/img/istockphoto-1183344756-170667a.jpg')}}" alt="..."></div>
+                        <div class="timeline-panel">
+                            <div class="timeline-heading">
+                                <!--<h4>Week 1</h4> -->
+                                <h4 class="subheading">Data Collection</h4>
+                            </div>
+                            <div class="timeline-body"><p class="text-muted">Data were gathered from several places including github, mental health forums, and public datasets.</p></div>
+                        </div>
+                    </li>
+                    <li class="timeline-inverted">
+                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="{{url_for('static',filename='assets/img/processing_lg.jpg')}}" alt="..."></div>
+                        <div class="timeline-panel">
+                            <div class="timeline-heading">
+                                <!--<h4>Week 2</h4> -->
+                                <h4 class="subheading">Data Processing</h4>
+                            </div>
+                            <div class="timeline-body"><p class="text-muted">The data were then processed, removing a lot of noise and unnecessary information.</p></div>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="{{url_for('static',filename='assets/img/2022-08-03 12_46_24-a3835678a2fa10fc268612f811f355a57985d575_2_1035x541.jpeg ‎- Photos.jpg')}}"alt="..."></div>
+                        <div class="timeline-panel">
+                            <div class="timeline-heading">
+                                <!--<h4>December 2015</h4> -->
+                                <h4 class="subheading">Training</h4>
+                            </div>
+                            <div class="timeline-body"><p class="text-muted">The model was trained with GPT-2 using the data that had previously been processed.
+</p></div>
+                        </div>
+                    </li>
+                    <li class="timeline-inverted">
+                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="{{url_for('static',filename='assets/img/pipeline_iteration.webp')}}" alt="..."></div>
+                        <div class="timeline-panel">
+                            <div class="timeline-heading">
+                                <!--<h4>December 2015</h4> -->
+                                <h4 class="subheading">Iteration</h4>
+                            </div>
+                            <div class="timeline-body"><p class="text-muted">The data were reprocessed and cleaned further to get a better dataset. Afterwards, the model was retrained using GPT-3 for better results.</p></div>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="{{url_for('static',filename='assets/img/pipeline_website_development.webp')}}" alt="..."></div>
+                        <div class="timeline-panel">
+                            <div class="timeline-heading">
+                                <!--<h4>December 2015</h4> -->
+                                <h4 class="subheading">Website Development</h4>
+                            </div>
+                            <div class="timeline-body"><p class="text-muted">After completing our model, we created this website in order to make our NLP Therapy Chatbot model available to everyone.
+</p></div>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </section>
+      <!-- End Pipeline Section -->
+    
+      <!-- ======= Featured Services Section Team 2======= -->
+
+      <section class="featured-services" id="featured-services">
+        <div class="container">
+          <div class="section-header">
+            <span>Data</span>
+            <h2>
+              Data
+            </h2>
+          </div>
+
+          <div class="row gy-4">
+            <div class="col-lg-4 col-md-6 d-flex" data-aos="fade-up">
+              <div class="icon flex-shrink-0">
+                <img height="100px" src="{{url_for('static', filename = 'assets/img/data.png')}}" width="100px">
+              </div>
+
+              <div>
+                <h4 class="title">
+                  <b>Data Scarcity Issues</b>
+                </h4>
+
+                <p class="description">
+                  Conversations between conselors and patients are private, leading to data scarcity.
+                </p>
+              </div>
+            </div>
+            <!-- End Service Item -->
+
+            <div class="col-lg-4 col-md-6 d-flex" data-aos="fade-up"
+            data-aos-delay="100">
+              <div class="icon flex-shrink-0">
+                <img height="100px" src="{{url_for('static', filename = 'assets/img/logos/concel-2.png')}}" width=
+                "100px">
+              </div>
+
+              <div>
+                <h4 class="title">
+                  <b>Data from CounselChat</b>
+                </h4>
+
+                <p class="description">
+                  Our initial dataset was found on a github repo containing data from counselchat.com, a mental health forum. However, we found that this repo didn't have enough data for our project.
+                </p>
+              </div>
+            </div>
+            <!-- End Service Item -->
+
+            <div class="col-lg-4 col-md-6 d-flex" data-aos="fade-up"
+            data-aos-delay="200">
+              <div class="icon flex-shrink-0">
+                <img height="100px" src="{{url_for('static', filename = 'assets/img/logos/MentalHealthForum.png')}}" width="100px">
+              </div>
+
+              <div>
+                <h4 class="title">
+                  <b>Scraping from MentalHealthForum.net</b>
+                </h4>
+
+                <p class="description">
+                  To fix our aforementioned data scarcity issue, we scraped posts from a public forum called mentalhealthforum.com.
+                </p>
+              </div>
+            </div>
+            <!-- End Service Item -->
+
+            <div class="col-lg-4 col-md-6 d-flex" data-aos="fade-up">
+              <div class="icon flex-shrink-0">
+                <img height="100px" src="{{url_for('static', filename = 'assets/img/logos/concel-2-collect.png')}}"width="100px">
+              </div>
+
+              <div>
+                <h4 class="title">
+                  <b>Github/Council Processing</b>
+                </h4>
+
+                <p class="description">
+                  For processing the data from Github/Council, we had to fix
+                  formating issues and remove extra languages.
+                </p>
+                <!--<a href="service-details.html" class="readmore stretched-link"><span>Learn More</span><i class="bi bi-arrow-right"></i></a>-->
+              </div>
+            </div>
+            <!--End Service Item-->
+
+            <div class="col-lg-4 col-md-6 d-flex" data-aos="fade-up"
+            data-aos-delay="100">
+              <div class="icon flex-shrink-0">
+                <img height="100px" src=
+                "{{url_for('static',filename='assets/img/logos/MentalHealthForum-process.png')}}" width="100px">
+              </div>
+
+              <div>
+                <h4 class="title">
+                  <b>Webscraping Processing</b>
+                </h4>
+
+                <p class="description">
+                  The scraped data from MentalHealthForum needed to be cleaned: several items were removed, including answers that were too short.
+                </p>
+                <!--<a href="service-details.html" class="readmore stretched-link"><span>Learn More</span><i class="bi bi-arrow-right"></i></a>-->
+              </div>
+            </div>
+            <!--End Service Item -->
+
+            <div class="col-lg-4 col-md-6 d-flex" data-aos="fade-up"
+            data-aos-delay="200">
+              <div class="icon flex-shrink-0">
+                <img height="100px" src="{{url_for('static',filename='assets/img/logos/abomination-2.png')}}"
+                width="100px">
+              </div>
+
+              <div>
+                <h4 class="title">
+                  <b>Combining the Datasets</b>
+                </h4>
+
+                <p class="description">
+                  The datasets were combined and further cleaned.
+                </p>
+                <!--<a href="service-details.html" class="readmore stretched-link"><span>Learn More</span><i class="bi bi-arrow-right"></i></a>-->
+              </div>
+            </div>
+            <!--End Service Item -->
+          </div>
+        </div>
+      </section>
+      <!-- End Featured Services Section Team 1-->
+      
+      
+      <!-- ======= Features Section ======= -->
+    <section id="features" class="features">
+      <div class="container">
+        <div class="container">
+          <div class="section-header">
+            <span>Modeling</span>
+            <h2>Modeling</h2>
+          </div>
+
+        <div class="row gy-4 align-items-center features-item" data-aos="fade-up">
+
+          <div class="col-md-4">
+            <img src="{{url_for('static', filename = 'assets/img/logos/other-openai-thing.png')}}" class="img-fluid" alt="">
+          </div>
+          <div class="col-md-7">
+            <h3>What is GPT-3?</h3>
+            <p class="fst-italic">
+              GTP-3 is a neural network made by Open-AI capable of generating text
+            </p>
+            <ul>
+              <li><i class="bi bi-check"></i> Created by Open-AI</li>
+              <li><i class="bi bi-check"></i> GPT-3 is a machine learning model that takes in human language and can interpret the sentences</li>
+            </ul>
+          </div>
+        </div><!-- Features Item -->
+
+        <div class="row gy-4 align-items-center features-item" data-aos="fade-up">
+          <div class="col-md-2 order-1 order-md-2">
+            <img src="{{url_for('static', filename = 'assets/img/logos/openai-question.png')}}" class="img-fluid" alt="">
+          </div>
+          <div class="col-md-7 order-2 order-md-1">
+            <h3>Why are we using GPT-3?</h3>
+            <p>
+              GPT-3 is a cutting edge artificial intelligent model that we used to train our model.  However, it is an expensive model and had long training times, but it was worth the quality.
+            </p>
+          </div>
+        </div><!-- Features Item -->
+
+        <div class="row gy-4 align-items-center features-item" data-aos="fade-up">
+          <div class="col-md-2">
+            <img src="{{url_for('static', filename = 'assets/img/logos/openai-training.png')}}" class="img-fluid" alt="">
+          </div>
+          <div class="col-md-7">
+            <h3>Training GPT-3</h3>
+            <p>Using the cleaned data from Github, CounselChat, and MentalHealthForum we trained our GPT-3 model. Training a text extension neural network means slowly refining the connections between neurons of the network so that it becomes more and more accurate.</p>
+          </div>
+        </div>
+        </div>
+      </div>
+    </section><!-- End Features Section -->
+      
+      
+      <!-- ======= Features Section Team 1======= -->
+
+      <section class="features" id="features">
+        <div class="container">
+          <div class="section-header">
+            <span>Conclusion</span>
+            <h2>
+              Conclusion
+            </h2>
+          </div>
+
+          <div class="row gy-4 align-items-center features-item" data-aos=
+          "fade-up">
+            <div class="col-md-5">
+              <img alt="" class="img-fluid" src="{{url_for('static', filename = 'assets/img/conclusions_significance.webp')}}">
+            </div>
+
+            <div class="col-md-7">
+              <h3>
+                Significance
+              </h3>
+
+              <p class="fst-italic">
+                Therapy can be hard to access for many people that is why we
+                created the NLP Therapy Chatbot, so it can be accessed by
+                anyone.
+              </p>
+
+              <ul>
+                <li>
+                  <i class="bi bi-check"></i> Free and reliable, our chatbot
+                  tries to comfort any that need it.
+                </li>
+
+                <li>
+                  <i class="bi bi-check"></i> Our chatbot is accessible
+                  anywhere.
+                </li>
+
+                <li>
+                  <i class="bi bi-check"></i> Our chatbot rids the user of any
+                  social burdens associated with therapy.
+                </li>
+              </ul>
+            </div>
+          </div>
+          <!-- Features Item -->
+
+          <div class="row gy-4 align-items-center features-item" data-aos=
+          "fade-up">
+            <div class="col-md-5 order-1 order-md-2">
+              <img alt="" class="img-fluid" src="{{url_for('static', filename = 'assets/img/conclusions_technology.webp')}}">
+            </div>
+
+            <div class="col-md-7 order-2 order-md-1">
+              <h3>
+                Technology
+              </h3>
+
+              <p class="fst-italic">
+                For the creation of the NLP Therapy Chatbot, we used many
+                different technologies for to achieve success.
+              </p>
+
+              <p>
+              </p>
+
+              <ul>
+                <li>
+                  <i class="bi bi-dot"></i> GPT-3 AI Model
+                </li>
+
+                <li>
+                  <i class="bi bi-dot"></i> Pandas Data Structuring<span style=
+                  'color:#9c27b0'></span>
+                </li>
+
+                <li>
+                  <i class="bi bi-dot"></i> AITextGen
+                </li>
+              </ul>
+
+              <p>
+              </p>
+            </div>
+          </div>
+          <!-- Features Item -->
+
+          <div class="row gy-4 align-items-center features-item" data-aos=
+          "fade-up">
+            <div class="col-md-5">
+              <img alt="" class="img-fluid" src="{{url_for('static', filename = 'assets/img/conclusions_performance.jpeg')}}">
+            </div>
+
+            <div class="col-md-7">
+              <h3>
+                Performance
+              </h3>
+
+              <p class="fst-italic">
+                Our model performs very well, outputting thoughtful and
+                complete responses.
+              </p>
+
+              <ul>
+                
+
+                <li>
+                  <i class="bi bi-dot"></i> Thoughtful responses
+                </li>
+
+                <li>
+                  <i class="bi bi-dot"></i> Human-like interaction
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!-- End Features Section Team 1-->
+      
+      
+      
+      <!-- ======= References Section ======= -->
+
+      <section class="pricing pt-0" id="pricing">
+        <div class="container" data-aos="fade-up">
+          <div class="section-header">
+            <span>References</span>
+            <h2>
+              References
+            </h2>
+          </div>
+
+          <div class="row gy-4">
+            <div class="col-lg-4" data-aos="fade-up" data-aos-delay="100">
+              <div class="pricing-item">
+                <h3>
+                  Web Template
+                </h3>
+
+                <h4>
+                  <sup></sup>Bootstrap<span></span>
+                </h4>
+
+                <h3>
+                  <sup></sup>bootstrapmade.com<span></span>
+                </h3>
+
+                <ul>
+                  <li>
+                    <i class="bi bi-check"></i> Free
+                  </li>
+
+                  <li>
+                    <i class="bi bi-check"></i> Clean Web Templates
+                  </li>
+
+                  <li>
+                    <i class="bi bi-check"></i> HTML, CSS, & Javascript
+                  </li>
+                </ul>
+                <a class="buy-btn" href="https://bootstrapmade.com">Visit
+                Here</a>
+              </div>
+            </div>
+            <!-- End References Item -->
+
+            <div class="col-lg-4" data-aos="fade-up" data-aos-delay="100">
+              <div class="pricing-item">
+                <h3>
+                  AI Model
+                </h3>
+
+                <h4>
+                  <sup></sup>OpenAI<span></span>
+                </h4>
+
+                <h3>
+                  <sup></sup>openai.com<span></span>
+                </h3>
+
+                <ul>
+                  <li>
+                    <i class="bi bi-check"></i> GPT-3 AI Model
+                  </li>
+
+                  <li>
+                    <i class="bi bi-check"></i> Powerful AI
+                  </li>
+
+                  <li>
+                    <i class="bi bi-check"></i> Natural Language Tasks
+                  </li>
+                </ul>
+                <a class="buy-btn" href="https://openai.com/api/">Visit
+                Here</a>
+              </div>
+            </div>
+
+            <div class="col-lg-4" data-aos="fade-up" data-aos-delay="100">
+              <div class="pricing-item">
+                <h3>
+                  Web Template
+                </h3>
+
+                <h4>
+                  <sup></sup>Kaggle<span></span>
+                </h4>
+
+                <h3>
+                  <sup></sup>kaggle.com<span></span>
+                </h3>
+
+                <ul>
+                  <li>
+                    <i class="bi bi-check"></i> Data Science Work
+                  </li>
+
+                  <li>
+                    <i class="bi bi-check"></i> Public Datasets
+                  </li>
+
+                  <li>
+                    <i class="bi bi-check"></i> Public Notebooks
+                  </li>
+                </ul>
+                <a class="buy-btn" href="https://kaggle.com">Visit Here</a>
+              </div>
+            </div>
+            <!-- End References Item -->
+          </div>
+        </div>
+      </section>
+            <div class="container" data-aos="fade-up">
+          <div class="section-header">
+            <span>About Us</span>
+            <h2>
+              About Us
+            </h2>
+          </div>
+        </div>
+      <!-- End References Section -->
+      <!-- ======= Testimonials Section ======= -->
+
+      <section class="testimonials" id="testimonials" style="background-image:url({{url_for('static',filename='assets/img/chicago-skyline-rosanne-jordan.webp')}})">
+        <div class="container">
+          <div class="slides-1 swiper" data-aos="fade-up">
+            <div class="swiper-wrapper">
+              <div class="swiper-slide">
+                <div class="testimonial-item">
+                  <img alt="" class="testimonial-img" src=
+                  "{{url_for('static', filename = 'assets/img/testimonials/testimonials-1.jpg')}}">
+                  <h3>
+                    Chunjiang Mou
+                  </h3>
+
+                  <h4>
+                    AI Camp Team Leader
+                  </h4>
+
+                  <div class="stars">
+                    <i class="bi bi-star-fill"></i><i class=
+                    "bi bi-star-fill"></i><i class=
+                    "bi bi-star-fill"></i><i class=
+                    "bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
+                  </div>
+
+                  <p>
+                    About Me Section
+                  </p>
+                </div>
+              </div>
+              <!-- End testimonial item -->
+
+              <div class="swiper-slide">
+                <div class="testimonial-item">
+                  <img alt="" class="testimonial-img" src=
+                  "{{url_for('static', filename = 'assets/img/testimonials/testimonials-ethan.jpg')}}">
+                  <h3>
+                    Ethan Park
+                  </h3>
+
+                  <h4>
+                    AI Camp Student
+                  </h4>
+
+                  <div class="stars">
+                    <i class="bi bi-star-fill"></i><i class=
+                    "bi bi-star-fill"></i><i class=
+                    "bi bi-star-fill"></i><i class=
+                    "bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
+                  </div>
+
+                  <p>
+                    Insert About Me Section Here
+                  </p>
+                </div>
+              </div>
+              <!-- End testimonial item -->
+
+              <div class="swiper-slide">
+                <div class="testimonial-item">
+                  <img alt="" class="testimonial-img" src=
+                  "{{url_for('static', filename = 'assets/img/testimonials/testimonials-3.png')}}">
+                  <h3>
+                    Arsalan Zahid
+                  </h3>
+
+                  <h4>
+                    AI Camp Student
+                  </h4>
+
+                  <div class="stars">
+                    <i class="bi bi-star-fill"></i><i class=
+                    "bi bi-star-fill"></i><i class=
+                    "bi bi-star-fill"></i><i class=
+                    "bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
+                  </div>
+
+                  <p>
+                    <i class="bi bi-quote quote-icon-left"></i> Enim nisi quem
+                    export duis labore cillum quae magna enim sint quorum nulla
+                    quem veniam duis minim tempor labore quem eram duis noster
+                    aute amet eram fore quis sint minim. <i class=
+                    "bi bi-quote quote-icon-right"></i>
+                  </p>
+                </div>
+              </div>
+              <!-- End testimonial item -->
+
+              <div class="swiper-slide">
+                <div class="testimonial-item">
+                  <img alt="" class="testimonial-img" src=
+                  "{{url_for('static', filename = 'assets/img/testimonials/testimonials-caleb.jpeg')}}">
+                  <h3>
+                    Caleb Ayers
+                  </h3>
+
+                  <h4>
+                    AI Camp Student
+                  </h4>
+
+                  <div class="stars">
+                    <i class="bi bi-star-fill"></i><i class=
+                    "bi bi-star-fill"></i><i class=
+                    "bi bi-star-fill"></i><i class=
+                    "bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
+                  </div>
+
+                  <p>
+                    About Me
+                  </p>
+                </div>
+              </div>
+              <!-- End testimonial item -->
+
+              <div class="swiper-slide">
+                <div class="testimonial-item">
+                  <img alt="" class="testimonial-img" src=
+                  "{{url_for('static', filename = 'assets/img/testimonials/testimonials-4.png')}}">
+                  <h3>
+                    Advaith Nair
+                  </h3>
+
+                  <h4>
+                    AI Camp Student
+                  </h4>
+
+                  <div class="stars">
+                    <i class="bi bi-star-fill"></i><i class=
+                    "bi bi-star-fill"></i><i class=
+                    "bi bi-star-fill"></i><i class=
+                    "bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
+                  </div>
+
+                  <p>
+                    <i class="bi bi-quote quote-icon-left"></i> About me <i class="bi bi-quote quote-icon-right"></i>
+                  </p>
+                </div>
+              </div>
+              <!-- End testimonial item -->
+
+              <div class="swiper-slide">
+                <div class="testimonial-item">
+                  <img alt="" class="testimonial-img" src=
+                  "{{url_for('static', filename = 'assets/img/testimonials/testimonials-5.png')}}">
+                  <h3>
+                    Rowan Cuda
+                  </h3>
+
+                  <h4>
+                    Entrepreneur
+                  </h4>
+
+                  <div class="stars">
+                    <i class="bi bi-star-fill"></i><i class=
+                    "bi bi-star-fill"></i><i class=
+                    "bi bi-star-fill"></i><i class=
+                    "bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
+                  </div>
+
+                  <p>
+                    <i class="bi bi-quote quote-icon-left"></i> Quis quorum
+                    aliqua sint quem legam fore sunt eram irure aliqua veniam
+                    tempor noster veniam enim culpa labore duis sunt culpa
+                    nulla illum cillum fugiat legam esse veniam culpa fore nisi
+                    cillum quid. <i class="bi bi-quote quote-icon-right"></i>
+                  </p>
+                </div>
+              </div>
+              <!-- End testimonial item -->
+            </div>
+
+            <div class="swiper-pagination">
+            </div>
+          </div>
+        </div>
+      </section>
+      <!-- End Testimonials Section -->
+      <!-- End #main -->
+      <!-- ======= Footer ======= -->
+
+      <!--<section id='contact'>
+      </section>-->
+
+      <footer class="footer" id="footer">
+        <div class="container">
+          <div class="row gy-4">
+            <div class="col-lg-5 col-md-12 footer-info">
+              <a class="logo d-flex align-items-center" href=
+              "index.html"><span>Masked Gorillas</span></a>
+              <p>
+                We are a group of students in a Stanford run AI camp with
+                Chunjiang Mou as our instructor. We developed the NLP Therapy
+                Chatbot as a 3-week project to try and help people.
+              </p>
+
+              <div class="social-links d-flex mt-4">
+                <a class="twitter" href=
+                "https://mobile.twitter.com/aicampofficial"><i class=
+                "bi bi-twitter"></i></a> <a class="facebook" href=
+                "https://www.facebook.com/aicampdotorg/"><i class=
+                "bi bi-facebook"></i></a> <a class="instagram" href=
+                "https://www.instagram.com/aicamp1/"><i class=
+                "bi bi-instagram"></i></a> <a class="linkedin" href=
+                "https://www.linkedin.com/company/ai-camp/"><i class=
+                "bi bi-linkedin"></i></a>
+              </div>
+            </div>
+
+            <div class="col-lg-2 col-6 footer-links">
+              <h4>
+                Directory
+              </h4>
+
+              <ul>
+                <li>
+                  <a class="active" href="#hero">Home</a>
+                </li>
+
+                <li>
+                  <a href="#about">Introduction</a>
+                </li>
+
+                <li>
+                  <a href="#featured-services">Data</a>
+                </li>
+
+                <li>
+                  <a href="#features">Conclusion</a>
+                </li>
+
+                <li>
+                  <a href="#pricing">References</a>
+                </li>
+              </ul>
+            </div>
+
+            <div class="col-lg-2 col-6 footer-links">
+              <h4>
+                About AI Camp
+              </h4>
+
+              <ul>
+                <li>
+                  <a href="https://www.ai-camp.org/our-mission">Mission</a>
+                </li>
+
+                <li>
+                  <a href="https://medium.com/ai-camp">Blog</a>
+                </li>
+
+                <li>
+                  <a href=
+                  "https://ai-camp.typeform.com/to/LWIfVW1H?typeform-source=www.ai-camp.org">
+                  Register</a>
+                </li>
+
+                <li>
+                  <a href="https://www.ai-camp.org/summer-help-center">Help
+                  Center</a>
+                </li>
+              </ul>
+            </div>
+
+            <div class=
+            "col-lg-3 col-md-12 footer-contact text-center text-md-start">
+              <h4>
+                Contact Us
+              </h4>
+
+              <p>
+                2627 Hanover St
+                <br>
+                Palo Alto, CA 94304
+                <br>
+                United States
+                <br>
+                <br>
+                <strong>Phone:</strong> (650) 436-4477
+                <br>
+                <strong>Email:</strong> hello@ai-camp.org
+                <br>
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div class="container mt-4">
+          
+
+          <div class="credits">
+            <!-- All the links in the footer should remain intact. -->
+            <!-- You can delete the links only if you purchased the pro version. -->
+            <!-- Licensing information: https://bootstrapmade.com/license/ -->
+            <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/logis-bootstrap-logistics-website-template/ -->
+            Thanks to <a href="https://bootstrapmade.com/">BootstrapMade</a> for the template.
+          </div>
+        </div>
+      </footer>
+      <!-- End Footer -->
+      <!-- End Footer -->
+      <a class="scroll-top d-flex align-items-center justify-content-center"href="#"><i class="bi bi-arrow-up-short"></i></a>
+      <div id="preloader"></div>
+      <!-- Vendor JS Files -->
+      <script src="{{url_for('static', filename = 'assets/vendor/bootstrap/js/bootstrap.bundle.min.js')}}"></script> 
+      <script src="{{url_for('static', filename = 'assets/vendor/purecounter/purecounter_vanilla.js'  )}}"></script> 
+      <script src="{{url_for('static', filename = 'assets/vendor/glightbox/js/glightbox.min.js'       )}}"></script> 
+      <script src="{{url_for('static', filename = 'assets/vendor/swiper/swiper-bundle.min.js'         )}}"></script> 
+      <script src="{{url_for('static', filename = 'assets/vendor/aos/aos.js'                          )}}"></script> 
+      <script src="{{url_for('static', filename = 'assets/vendor/php-email-form/validate.js'          )}}"></script> 
+      
+      <!-- Template Main JS File -->
+      <script src="{{url_for('static', filename = 'assets/js/main.js')}}"></script>
+    </main>
+  </body>
+</html>
