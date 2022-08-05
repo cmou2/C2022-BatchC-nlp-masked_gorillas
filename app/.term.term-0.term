@@ -3167,3 +3167,1112 @@ USER INPUT: I'm feeling so anxious nowadays.
 127.0.0.1 - - [04/Aug/2022 17:05:52] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot_header.jpg HTTP/1.1[0m" 404 -
 127.0.0.1 - - [04/Aug/2022 17:05:53] "[32mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/index.html HTTP/1.1[0m" 302 -
 127.0.0.1 - - [04/Aug/2022 17:05:53] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:08:25] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:08:26] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/purecounter/purecounter_vanilla.js.map HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:08:26] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:08:26] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/swiper/swiper-bundle.min.js.map HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:08:26] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:09:15] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:09:26] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:09:37] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:10:47] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:12:19] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:12:19] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:12:19] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot_header.jpg HTTP/1.1[0m" 404 -
+USER INPUT: I feel lonely please help me
+
+###
+
+
+127.0.0.1 - - [04/Aug/2022 17:13:26] "[37mPOST /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:14:28] "[32mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/index.html HTTP/1.1[0m" 302 -
+127.0.0.1 - - [04/Aug/2022 17:14:28] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:18:07] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:18:21] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:23:17] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:23:17] "[36mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap-icons/bootstrap-icons.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [04/Aug/2022 17:23:17] "[36mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [04/Aug/2022 17:23:17] "[36mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/glightbox/css/glightbox.min.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [04/Aug/2022 17:23:17] "[36mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/fontawesome-free/css/all.min.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [04/Aug/2022 17:23:17] "[36mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/aos/aos.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [04/Aug/2022 17:23:17] "[36mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/swiper/swiper-bundle.min.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [04/Aug/2022 17:23:17] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/css/main.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:23:17] "[36mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [04/Aug/2022 17:23:17] "[36mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/purecounter/purecounter_vanilla.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [04/Aug/2022 17:23:17] "[36mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [04/Aug/2022 17:23:17] "[36mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [04/Aug/2022 17:23:17] "[36mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/aos/aos.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [04/Aug/2022 17:23:17] "[36mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/php-email-form/validate.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [04/Aug/2022 17:23:17] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/js/main.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:23:17] "[36mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/TedxTalk.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [04/Aug/2022 17:23:17] "[36mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/monkey.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [04/Aug/2022 17:23:17] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/istockphoto-1183344756-170667a.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:23:17] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/2022-08-03%2012_46_24-a3835678a2fa10fc268612f811f355a57985d575_2_1035x541.jpeg%20‎-%20Photos.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:23:17] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/processing_lg.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:23:17] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/pipeline_iteration.webp HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:23:17] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/pipeline_website_development.webp HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:23:17] "[36mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/data.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [04/Aug/2022 17:23:17] "[36mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/logos/concel-2.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [04/Aug/2022 17:23:17] "[36mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff2?8d200481aa7f02a2d63a331fc782cfaf HTTP/1.1[0m" 304 -
+127.0.0.1 - - [04/Aug/2022 17:23:17] "[36mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/background-2.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [04/Aug/2022 17:23:17] "[36mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/logos/MentalHealthForum.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [04/Aug/2022 17:23:17] "[36mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/logos/concel-2-collect.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [04/Aug/2022 17:23:17] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/logos/MentalHealthForum-process.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:23:17] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/logos/abomination-2.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:23:17] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/logos/other-openai-thing-2.png HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:23:17] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/logos/openai-question-2.png HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:23:17] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/logos/openai-training-2.png HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:23:17] "[36mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/conclusions_significance.webp HTTP/1.1[0m" 304 -
+127.0.0.1 - - [04/Aug/2022 17:23:17] "[36mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/conclusions_technology.webp HTTP/1.1[0m" 304 -
+127.0.0.1 - - [04/Aug/2022 17:23:17] "[36mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/conclusions_performance.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [04/Aug/2022 17:23:17] "[36mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/testimonials/testimonials-1.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [04/Aug/2022 17:23:17] "[36mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/testimonials/testimonials-ethan.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [04/Aug/2022 17:23:17] "[36mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/testimonials/testimonials-3.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [04/Aug/2022 17:23:17] "[36mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/testimonials/testimonials-caleb.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [04/Aug/2022 17:23:17] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/testimonials/testimonials-4.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:23:17] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/testimonials/testimonials-5.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:23:17] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/chicago-skyline-rosanne-jordan.webp HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:23:27] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/swiper/swiper-bundle.min.js.map HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:23:27] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/purecounter/purecounter_vanilla.js.map HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:23:27] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:23:27] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:23:53] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:23:53] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/other-openai-thing-2.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:23:53] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/openai-question-2.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:23:53] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/openai-training-2.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:23:53] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:23:53] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/purecounter/purecounter_vanilla.js.map HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:23:53] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/swiper/swiper-bundle.min.js.map HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:23:53] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:25:12] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:25:38] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:25:38] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/other-openai-thing-2.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:25:38] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/openai-question-2.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:25:39] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/openai-training-2.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:25:41] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:25:41] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot_header.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:25:41] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:25:55] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:25:55] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:25:55] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot_header.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:26:02] "[32mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/index.html HTTP/1.1[0m" 302 -
+127.0.0.1 - - [04/Aug/2022 17:26:02] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:26:04] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:26:04] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:26:04] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot_header.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:26:33] "[32mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/index.html HTTP/1.1[0m" 302 -
+127.0.0.1 - - [04/Aug/2022 17:26:33] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:26:45] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:27:02] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:27:04] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:27:22] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:27:22] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot_header.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:27:22] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:27:31] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:27:32] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot_header.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:27:32] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:27:34] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/purecounter/purecounter_vanilla.js.map HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:27:34] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:27:34] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/swiper/swiper-bundle.min.js.map HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:27:34] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:28:41] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:28:41] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot_header.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:28:41] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:29:05] "[32mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/index.html HTTP/1.1[0m" 302 -
+127.0.0.1 - - [04/Aug/2022 17:29:05] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:29:05] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/other-openai-thing-2.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:29:05] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/openai-question-2.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:29:05] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/openai-training-2.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:29:24] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:29:24] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:29:24] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot_header.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:29:30] "[32mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/index.html HTTP/1.1[0m" 302 -
+127.0.0.1 - - [04/Aug/2022 17:29:30] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:29:34] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:29:34] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:29:34] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot_header.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:29:35] "[32mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/index.html HTTP/1.1[0m" 302 -
+127.0.0.1 - - [04/Aug/2022 17:29:35] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:29:35] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:29:35] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:29:36] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot_header.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:29:37] "[32mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/index.html HTTP/1.1[0m" 302 -
+127.0.0.1 - - [04/Aug/2022 17:29:37] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:29:43] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:29:43] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot_header.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:29:43] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:29:43] "[32mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/index.html HTTP/1.1[0m" 302 -
+127.0.0.1 - - [04/Aug/2022 17:29:43] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:29:44] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:29:44] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot_header.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:29:44] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:29:50] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:29:50] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot_header.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:29:50] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:29:50] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:29:50] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:29:50] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/purecounter/purecounter_vanilla.js.map HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:29:50] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/swiper/swiper-bundle.min.js.map HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:29:50] "[32mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/index.html HTTP/1.1[0m" 302 -
+127.0.0.1 - - [04/Aug/2022 17:29:50] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:29:53] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:29:53] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot_header.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:29:53] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:29:56] "[32mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/index.html HTTP/1.1[0m" 302 -
+127.0.0.1 - - [04/Aug/2022 17:29:56] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:30:06] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:30:06] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot_header.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:30:06] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:30:06] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:30:06] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:30:06] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/purecounter/purecounter_vanilla.js.map HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:30:06] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/swiper/swiper-bundle.min.js.map HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:30:35] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:30:35] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:30:35] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap-icons/bootstrap-icons.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:30:35] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/aos/aos.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:30:35] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/swiper/swiper-bundle.min.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:30:35] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/glightbox/css/glightbox.min.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:30:35] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/fontawesome-free/css/all.min.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:30:35] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/css/main.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:30:35] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:30:35] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/purecounter/purecounter_vanilla.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:30:35] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:30:35] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:30:35] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/js/main.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:30:36] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/aos/aos.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:30:36] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/php-email-form/validate.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:30:36] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/monkey.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:30:36] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/TedxTalk.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:30:36] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/istockphoto-1183344756-170667a.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:30:36] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/processing_lg.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:30:36] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/2022-08-03%2012_46_24-a3835678a2fa10fc268612f811f355a57985d575_2_1035x541.jpeg%20‎-%20Photos.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:30:36] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/pipeline_iteration.webp HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:30:36] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/pipeline_website_development.webp HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:30:36] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/data.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:30:36] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/logos/concel-2.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:30:36] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/logos/MentalHealthForum.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:30:36] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/logos/concel-2-collect.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:30:36] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/background-2.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:30:36] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/logos/MentalHealthForum-process.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:30:36] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/logos/abomination-2.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:30:36] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/other-openai-thing-2.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:30:36] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff2?8d200481aa7f02a2d63a331fc782cfaf HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:30:36] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/openai-question-2.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:30:36] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/conclusions_significance.webp HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:30:36] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/openai-training-2.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:30:36] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/conclusions_technology.webp HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:30:36] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/testimonials/testimonials-1.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:30:36] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/conclusions_performance.jpeg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:30:36] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/testimonials/testimonials-ethan.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:30:36] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/testimonials/testimonials-3.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:30:36] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/testimonials/testimonials-caleb.jpeg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:30:36] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/testimonials/testimonials-4.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:30:36] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/testimonials/testimonials-5.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:30:37] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/chicago-skyline-rosanne-jordan.webp HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:30:48] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:30:48] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot_header.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:30:48] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:31:15] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/purecounter/purecounter_vanilla.js.map HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:31:15] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:31:15] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/swiper/swiper-bundle.min.js.map HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:31:15] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:31:28] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/purecounter/purecounter_vanilla.js.map HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:33:41] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/purecounter/purecounter_vanilla.js.map HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:34:46] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:34:47] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/purecounter/purecounter_vanilla.js[:-4] HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:34:47] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot_header.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:34:47] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:34:47] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:34:47] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:34:47] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/swiper/swiper-bundle.min.js.map HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:34:52] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:34:58] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:34:58] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:34:58] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot_header.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:34:58] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:34:58] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:34:58] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/purecounter/purecounter_vanilla.js.map HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:34:58] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/swiper/swiper-bundle.min.js.map HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:36:32] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:36:32] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/testimonials/Jonathan.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:36:32] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/testimonials/Jonathan.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:37:12] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:37:12] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot_header.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:37:12] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:37:13] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:37:13] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:37:13] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/purecounter/purecounter_vanilla.js.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:37:13] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/swiper/swiper-bundle.min.js.map HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:37:57] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:37:57] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/testimonials/testimonials-Jonathan.jpeg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:39:36] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:39:36] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:39:36] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot_header.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:39:36] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:39:36] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/purecounter/purecounter_vanilla.js.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:39:36] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:39:36] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/swiper/swiper-bundle.min.js.map HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:40:02] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:40:02] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:40:02] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot_header.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:40:07] "[32mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/index.html HTTP/1.1[0m" 302 -
+127.0.0.1 - - [04/Aug/2022 17:40:07] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:40:09] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:40:10] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/purecounter/purecounter_vanill HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:40:10] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:40:10] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot_header.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:40:10] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:40:10] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:40:10] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/swiper/swiper-bundle.min.js.map HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:41:10] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:41:10] "[36mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [04/Aug/2022 17:41:10] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/css/main.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:41:10] "[36mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap-icons/bootstrap-icons.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [04/Aug/2022 17:41:10] "[36mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/swiper/swiper-bundle.min.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [04/Aug/2022 17:41:10] "[36mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/glightbox/css/glightbox.min.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [04/Aug/2022 17:41:10] "[36mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/aos/aos.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [04/Aug/2022 17:41:10] "[36mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/fontawesome-free/css/all.min.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [04/Aug/2022 17:41:10] "[36mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [04/Aug/2022 17:41:10] "[36mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/purecounter/purecounter_vanilla.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [04/Aug/2022 17:41:10] "[36mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [04/Aug/2022 17:41:10] "[36mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [04/Aug/2022 17:41:10] "[36mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/aos/aos.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [04/Aug/2022 17:41:10] "[36mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/php-email-form/validate.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [04/Aug/2022 17:41:10] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/js/main.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:41:10] "[36mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/monkey.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [04/Aug/2022 17:41:10] "[36mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/background-2.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [04/Aug/2022 17:41:10] "[36mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/TedxTalk.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [04/Aug/2022 17:41:10] "[36mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff2?8d200481aa7f02a2d63a331fc782cfaf HTTP/1.1[0m" 304 -
+127.0.0.1 - - [04/Aug/2022 17:41:10] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/istockphoto-1183344756-170667a.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:41:10] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/processing_lg.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:41:10] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/2022-08-03%2012_46_24-a3835678a2fa10fc268612f811f355a57985d575_2_1035x541.jpeg%20‎-%20Photos.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:41:10] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/pipeline_iteration.webp HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:41:10] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/pipeline_website_development.webp HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:41:10] "[36mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/data.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [04/Aug/2022 17:41:10] "[36mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/logos/concel-2.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [04/Aug/2022 17:41:10] "[36mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/logos/MentalHealthForum.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [04/Aug/2022 17:41:10] "[36mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/logos/concel-2-collect.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [04/Aug/2022 17:41:10] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/logos/abomination-2.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:41:10] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/logos/MentalHealthForum-process.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:41:10] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/other-openai-thing-2.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:41:10] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/openai-question-2.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:41:10] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/openai-training-2.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:41:10] "[36mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/conclusions_technology.webp HTTP/1.1[0m" 304 -
+127.0.0.1 - - [04/Aug/2022 17:41:10] "[36mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/conclusions_significance.webp HTTP/1.1[0m" 304 -
+127.0.0.1 - - [04/Aug/2022 17:41:10] "[36mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/conclusions_performance.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [04/Aug/2022 17:41:10] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/testimonials/testimonials-Jonathan.jpeg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:41:10] "[36mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/testimonials/testimonials-ethan.jpg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [04/Aug/2022 17:41:10] "[36mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/testimonials/testimonials-3.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [04/Aug/2022 17:41:10] "[36mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/testimonials/testimonials-caleb.jpeg HTTP/1.1[0m" 304 -
+127.0.0.1 - - [04/Aug/2022 17:41:10] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/testimonials/testimonials-4.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:41:10] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/testimonials/testimonials-5.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:41:10] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/chicago-skyline-rosanne-jordan.webp HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:43:25] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:45:02] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:45:17] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:45:20] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:45:26] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:45:26] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot_header.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:45:26] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:45:27] "[32mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/index.html HTTP/1.1[0m" 302 -
+127.0.0.1 - - [04/Aug/2022 17:45:27] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:45:29] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:45:29] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot_header.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:45:29] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:45:43] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff?8d200481aa7f02a2d63a331fc782cfaf HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:45:46] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:45:47] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:46:43] "[32mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/index.html HTTP/1.1[0m" 302 -
+127.0.0.1 - - [04/Aug/2022 17:46:43] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:46:44] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/testimonials/testimonials-Jonathan.jpeg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:46:50] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/swiper/swiper-bundle.min.js.map HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:46:50] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:46:50] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:46:56] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:47:01] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:47:07] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:47:35] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:47:38] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/purecounter/purecounter_vanill HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:47:58] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:48:08] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:48:08] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot_header.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:48:08] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:48:08] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:48:08] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:48:08] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/swiper/swiper-bundle.min.js.map HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:48:08] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/purecounter/purecounter_vanilla.js.map HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:48:15] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:48:15] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:48:15] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot_header.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:48:16] "[32mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/index.html HTTP/1.1[0m" 302 -
+127.0.0.1 - - [04/Aug/2022 17:48:16] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:48:19] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:48:19] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot_header.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:48:19] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:48:22] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/purecounter/purecounter_vanilla.js.map HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:48:26] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:48:35] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:48:35] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot_header.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:48:35] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:48:38] "[32mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/index.html HTTP/1.1[0m" 302 -
+127.0.0.1 - - [04/Aug/2022 17:48:38] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:48:41] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:48:41] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot_header.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:48:42] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:49:19] "[32mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/index.html HTTP/1.1[0m" 302 -
+127.0.0.1 - - [04/Aug/2022 17:49:19] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:49:32] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:49:32] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot_header.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:49:32] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:49:35] "[32mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/index.html HTTP/1.1[0m" 302 -
+127.0.0.1 - - [04/Aug/2022 17:49:35] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:49:37] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:49:37] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot_header.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:49:37] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:49:38] "[32mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/index.html HTTP/1.1[0m" 302 -
+127.0.0.1 - - [04/Aug/2022 17:49:38] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:49:40] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:49:40] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot_header.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:49:40] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:49:53] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:49:53] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot_header.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:49:53] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:49:59] "[32mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/index.html HTTP/1.1[0m" 302 -
+127.0.0.1 - - [04/Aug/2022 17:49:59] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:50:02] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:50:02] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:50:02] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:50:02] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot_header.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:50:02] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot_header.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:50:02] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:50:10] "[32mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/index.html HTTP/1.1[0m" 302 -
+127.0.0.1 - - [04/Aug/2022 17:50:10] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:50:12] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:50:12] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot_header.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:50:12] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:50:14] "[32mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/index.html HTTP/1.1[0m" 302 -
+127.0.0.1 - - [04/Aug/2022 17:50:14] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:50:14] "[32mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/index.html HTTP/1.1[0m" 302 -
+127.0.0.1 - - [04/Aug/2022 17:50:14] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:50:17] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:50:17] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot_header.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:50:17] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:50:18] "[32mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/index.html HTTP/1.1[0m" 302 -
+127.0.0.1 - - [04/Aug/2022 17:50:18] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:50:22] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:50:23] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:50:23] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot_header.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:50:25] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:50:27] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:50:27] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:50:27] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot_header.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:50:29] "[32mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/index.html HTTP/1.1[0m" 302 -
+127.0.0.1 - - [04/Aug/2022 17:50:29] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:50:30] "[32mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/index.html HTTP/1.1[0m" 302 -
+127.0.0.1 - - [04/Aug/2022 17:50:30] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:51:25] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:51:31] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:51:45] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:51:54] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:51:54] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot_header.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:51:54] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:51:54] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:51:54] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/swiper/swiper-bundle.min.js.map HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:51:54] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:51:54] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/purecounter/purecounter_vanilla.js.map HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:52:05] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/purecounter/purecounter_vanilla.js.map HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:52:08] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:52:21] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:52:21] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:52:21] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot_header.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:52:21] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:52:21] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:52:21] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/purecounter/purecounter_vanilla.js.map HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:52:21] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/swiper/swiper-bundle.min.js.map HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:52:50] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:52:50] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:52:50] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot_header.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:52:51] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:52:51] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:52:51] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/purecounter/purecounter_vanilla.js.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:52:51] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/swiper/swiper-bundle.min.js.map HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:53:00] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/swiper/swiper-bundle.min.js.map HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:53:13] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:53:13] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:53:13] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/chatbot_header.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:53:13] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:53:13] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:53:13] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/purecounter/purecounter_vanilla.js.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:53:14] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/swiper/swiper-bundle.min.js.map HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:53:52] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:53:53] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:53:53] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:53:53] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/chatbot_header.jpg HTTP/1.1[0m" 200 -
+USER INPUT: Work is so stressful for me, should I quit?
+
+###
+
+
+127.0.0.1 - - [04/Aug/2022 17:54:19] "[37mPOST /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:54:22] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:54:22] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:54:22] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/purecounter/purecounter_vanilla.js.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:54:22] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:54:22] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/swiper/swiper-bundle.min.js.map HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:54:22] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:54:40] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 17:54:40] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 17:57:56] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:01:47] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:01:47] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 18:01:47] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/chatbot_header.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:01:50] "[32mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/index.html HTTP/1.1[0m" 302 -
+127.0.0.1 - - [04/Aug/2022 18:01:50] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:03:39] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:03:42] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:03:43] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/chatbot_header.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:03:43] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 18:03:43] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:03:43] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/swiper/swiper-bundle.min.js.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:03:43] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:03:43] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/purecounter/purecounter_vanilla.js.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:04:04] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:04:04] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/purecounter/purecounter_vanilla.js.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:04:04] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/swiper/swiper-bundle.min.js.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:04:04] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:04:04] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:04:08] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 18:05:12] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:05:12] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap-icons/bootstrap-icons.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:05:12] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:05:12] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/fontawesome-free/css/all.min.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:05:12] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/swiper/swiper-bundle.min.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:05:12] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/purecounter/purecounter_vanilla.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:05:12] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/aos/aos.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:05:12] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/glightbox/css/glightbox.min.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:05:12] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/css/main.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:05:12] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:05:12] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:05:12] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:05:12] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/aos/aos.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:05:12] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/php-email-form/validate.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:05:12] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/js/main.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:05:12] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/chatbot_header.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:05:12] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff2?8d200481aa7f02a2d63a331fc782cfaf HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:05:12] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 18:05:12] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:05:12] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:05:12] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/purecounter/purecounter_vanilla.js.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:05:12] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/swiper/swiper-bundle.min.js.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:05:33] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:05:33] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot.jpg HTTP/1.1[0m" 404 -
+USER INPUT: I do not like my school
+
+###
+
+
+127.0.0.1 - - [04/Aug/2022 18:05:48] "[37mPOST /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:05:52] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:05:52] "[33mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/assets/img/chatbot.jpg HTTP/1.1[0m" 404 -
+127.0.0.1 - - [04/Aug/2022 18:05:52] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:05:52] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/purecounter/purecounter_vanilla.js.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:05:52] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:05:52] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/swiper/swiper-bundle.min.js.map HTTP/1.1[0m" 200 -
+USER INPUT: I do not like my parents
+
+###
+
+
+127.0.0.1 - - [04/Aug/2022 18:06:06] "[37mPOST /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+USER INPUT: I do not like my parents
+
+###
+
+
+127.0.0.1 - - [04/Aug/2022 18:06:07] "[37mPOST /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+USER INPUT: I do not like my parents
+
+###
+
+
+127.0.0.1 - - [04/Aug/2022 18:06:09] "[37mPOST /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+USER INPUT: I do not like my parents
+
+###
+
+
+127.0.0.1 - - [04/Aug/2022 18:06:09] "[37mPOST /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+USER INPUT: I do not like my parents
+
+###
+
+
+127.0.0.1 - - [04/Aug/2022 18:06:10] "[37mPOST /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+USER INPUT: I do not like my parents
+
+###
+
+
+127.0.0.1 - - [04/Aug/2022 18:06:11] "[37mPOST /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:07:03] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:07:04] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/chatbot.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:07:04] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:07:04] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/purecounter/purecounter_vanilla.js.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:07:04] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:07:04] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/swiper/swiper-bundle.min.js.map HTTP/1.1[0m" 200 -
+USER INPUT: I'm feeling so anxious nowadays.
+
+###
+
+
+127.0.0.1 - - [04/Aug/2022 18:07:13] "[37mPOST /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+USER INPUT: I'm feeling so anxious nowadays.
+
+###
+
+
+127.0.0.1 - - [04/Aug/2022 18:07:17] "[37mPOST /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+^C(base) ]0;~/nlp-chatbox-demo/app[01;34m~/nlp-chatbox-demo/app[00m$ python main.py
+Try to open
+
+    https://cocalc13.ai-camp.dev/3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/
+
+
+ * Serving Flask app "main" (lazy loading)
+ * Environment: production
+[31m   WARNING: This is a development server. Do not use it in a production deployment.[0m
+[2m   Use a production WSGI server instead.[0m
+ * Debug mode: on
+ * Running on http://0.0.0.0:12346/ (Press CTRL+C to quit)
+ * Restarting with stat
+Try to open
+
+    https://cocalc13.ai-camp.dev/3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/
+
+
+ * Debugger is active!
+ * Debugger PIN: 144-632-885
+127.0.0.1 - - [04/Aug/2022 18:07:39] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+USER INPUT: I'm feeling so anxious nowadays.
+
+###
+
+
+127.0.0.1 - - [04/Aug/2022 18:07:46] "[37mPOST /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+ * Detected change in '/projects/3df115f7-b265-4ae7-8859-4c52553a6d3a/nlp-chatbox-demo/app/main.py', reloading
+ * Restarting with stat
+Try to open
+
+    https://cocalc13.ai-camp.dev/3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/
+
+
+ * Debugger is active!
+ * Debugger PIN: 144-632-885
+USER INPUT: I'm feeling so anxious nowadays.
+
+###
+
+
+127.0.0.1 - - [04/Aug/2022 18:08:04] "[37mPOST /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:08:05] "[32mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/index.html HTTP/1.1[0m" 302 -
+127.0.0.1 - - [04/Aug/2022 18:08:05] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+^C(base) ]0;~/nlp-chatbox-demo/app[01;34m~/nlp-chatbox-demo/app[00m$ python main.py
+Try to open
+
+    https://cocalc13.ai-camp.dev/3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/
+
+
+ * Serving Flask app "main" (lazy loading)
+ * Environment: production
+[31m   WARNING: This is a development server. Do not use it in a production deployment.[0m
+[2m   Use a production WSGI server instead.[0m
+ * Debug mode: on
+ * Running on http://0.0.0.0:12346/ (Press CTRL+C to quit)
+ * Restarting with stat
+Try to open
+
+    https://cocalc13.ai-camp.dev/3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/
+
+
+ * Debugger is active!
+ * Debugger PIN: 144-632-885
+127.0.0.1 - - [04/Aug/2022 18:08:19] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+USER INPUT: I'm feeling so anxious nowadays.
+
+###
+
+
+127.0.0.1 - - [04/Aug/2022 18:08:22] "[37mPOST /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+USER INPUT: I do not like my parents
+
+###
+
+
+127.0.0.1 - - [04/Aug/2022 18:08:46] "[37mPOST /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+USER INPUT: I felt lonely
+
+###
+
+
+127.0.0.1 - - [04/Aug/2022 18:08:59] "[37mPOST /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+USER INPUT: I do not like my school
+
+###
+
+
+127.0.0.1 - - [04/Aug/2022 18:09:25] "[37mPOST /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:09:38] "[32mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/index.html HTTP/1.1[0m" 302 -
+127.0.0.1 - - [04/Aug/2022 18:09:38] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:11:13] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:11:13] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/chatbot.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:11:22] "[32mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/index.html HTTP/1.1[0m" 302 -
+127.0.0.1 - - [04/Aug/2022 18:11:22] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:11:43] "[32mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/index.html HTTP/1.1[0m" 302 -
+127.0.0.1 - - [04/Aug/2022 18:11:43] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:11:43] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/testimonials/testimonials-Jonathan.jpeg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:11:43] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:11:43] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:11:44] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/purecounter/purecounter_vanilla.js.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:11:44] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/swiper/swiper-bundle.min.js.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:14:34] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:15:14] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:15:16] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:15:16] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/chatbot.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:21:09] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:21:12] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:21:14] "[32mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/index.html HTTP/1.1[0m" 302 -
+127.0.0.1 - - [04/Aug/2022 18:21:14] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:21:17] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:21:17] "[32mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/index.html HTTP/1.1[0m" 302 -
+127.0.0.1 - - [04/Aug/2022 18:21:18] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:32:07] "[32mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/index.html HTTP/1.1[0m" 302 -
+127.0.0.1 - - [04/Aug/2022 18:32:07] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:38:32] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:38:52] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:40:22] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:41:35] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:42:53] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:43:33] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:43:35] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:43:58] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:44:02] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:44:18] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:44:22] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:44:35] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:45:55] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:47:57] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:48:10] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:49:31] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:49:31] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/purecounter/purecounter_vanilla.js.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:49:32] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/swiper/swiper-bundle.min.js.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:49:32] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:50:21] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:50:21] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/GPTvsBERT.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:50:24] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:50:24] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/GPTvsBERT.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:51:00] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:51:00] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/GPTvsBERT.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:51:00] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:51:00] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:51:00] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/purecounter/purecounter_vanilla.js.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:51:00] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/swiper/swiper-bundle.min.js.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:51:06] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:51:07] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/purecounter/purecounter_vanilla.js.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:51:07] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:51:07] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/swiper/swiper-bundle.min.js.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:51:07] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:51:46] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:51:46] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:51:46] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap-icons/bootstrap-icons.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:51:46] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/swiper/swiper-bundle.min.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:51:46] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/fontawesome-free/css/all.min.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:51:46] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/glightbox/css/glightbox.min.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:51:46] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/aos/aos.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:51:46] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:51:46] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/background-2.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:51:46] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/css/main.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:51:46] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/GPTvsBERT.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:51:46] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff2?8d200481aa7f02a2d63a331fc782cfaf HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:51:46] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/monkey.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:51:46] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/conclusions_technology.webp HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:51:47] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/openai-training-2.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:51:47] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/conclusions_significance.webp HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:51:47] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/other-openai-thing-2.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:51:47] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/purecounter/purecounter_vanilla.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:51:47] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:51:47] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:51:47] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:51:47] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:51:47] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/aos/aos.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:51:47] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/php-email-form/validate.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:51:47] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/js/main.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:51:47] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/TedxTalk.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:51:47] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/istockphoto-1183344756-170667a.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:51:47] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/processing_lg.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:51:47] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/2022-08-03%2012_46_24-a3835678a2fa10fc268612f811f355a57985d575_2_1035x541.jpeg%20‎-%20Photos.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:51:47] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/pipeline_iteration.webp HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:51:47] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/pipeline_website_development.webp HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:51:47] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/logos/concel-2.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:51:47] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/logos/MentalHealthForum.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:51:47] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/data.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:51:47] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/logos/concel-2-collect.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:51:47] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/logos/MentalHealthForum-process.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:51:47] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/logos/abomination-2.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:51:47] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/conclusions_performance.jpeg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:51:47] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/testimonials/testimonials-Jonathan.jpeg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:51:47] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/testimonials/testimonials-ethan.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:51:47] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/testimonials/testimonials-3.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:51:47] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/purecounter/purecounter_vanilla.js.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:51:47] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/testimonials/testimonials-caleb.jpeg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:51:47] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/testimonials/testimonials-4.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:51:47] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/testimonials/testimonials-5.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:51:47] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/chicago-skyline-rosanne-jordan.webp HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:51:47] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/swiper/swiper-bundle.min.js.map HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:52:24] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:52:33] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:53:12] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:53:18] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:53:19] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:53:19] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:53:19] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap-icons/bootstrap-icons.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:53:19] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/fontawesome-free/css/all.min.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:53:19] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/glightbox/css/glightbox.min.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:53:19] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/swiper/swiper-bundle.min.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:53:19] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/aos/aos.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:53:19] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/css/main.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:53:19] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:53:19] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/purecounter/purecounter_vanilla.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:53:19] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:53:19] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:53:19] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/aos/aos.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:53:19] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/js/main.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:53:19] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/php-email-form/validate.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:53:19] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/monkey.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:53:19] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/TedxTalk.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:53:19] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/istockphoto-1183344756-170667a.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:53:19] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/processing_lg.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:53:19] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/2022-08-03%2012_46_24-a3835678a2fa10fc268612f811f355a57985d575_2_1035x541.jpeg%20‎-%20Photos.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:53:19] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/pipeline_iteration.webp HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:53:19] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/pipeline_website_development.webp HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:53:19] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/data.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:53:19] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/logos/concel-2.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:53:19] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/logos/MentalHealthForum.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:53:19] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/logos/concel-2-collect.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:53:19] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/logos/MentalHealthForum-process.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:53:19] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/logos/abomination-2.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:53:19] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/other-openai-thing-2.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:53:19] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/GPTvsBERT.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:53:19] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/openai-training-2.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:53:19] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/conclusions_technology.webp HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:53:19] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/conclusions_significance.webp HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:53:19] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/conclusions_performance.jpeg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:53:19] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/testimonials/testimonials-Jonathan.jpeg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:53:20] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/testimonials/testimonials-ethan.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:53:20] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/testimonials/testimonials-caleb.jpeg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:53:20] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/testimonials/testimonials-3.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:53:20] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/testimonials/testimonials-4.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:53:20] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/testimonials/testimonials-5.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:53:20] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/background-2.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:53:20] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff2?8d200481aa7f02a2d63a331fc782cfaf HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:53:20] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/chicago-skyline-rosanne-jordan.webp HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:53:24] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:53:27] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:53:32] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:53:39] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:53:45] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:53:45] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/chatbot.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:53:45] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/chatbot_header.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:53:47] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:53:50] "[32mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/index.html HTTP/1.1[0m" 302 -
+127.0.0.1 - - [04/Aug/2022 18:53:50] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+USER INPUT: Work is so stressful for me, should I quit?
+
+###
+
+
+127.0.0.1 - - [04/Aug/2022 18:53:51] "[32mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/index.html HTTP/1.1[0m" 302 -
+127.0.0.1 - - [04/Aug/2022 18:53:51] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:53:52] "[37mPOST /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:53:52] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+USER INPUT: I'm feeling so anxious nowadays.
+
+###
+
+
+127.0.0.1 - - [04/Aug/2022 18:54:02] "[37mPOST /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+USER INPUT: I'm feeling so anxious nowadays.
+
+###
+
+
+127.0.0.1 - - [04/Aug/2022 18:54:28] "[37mPOST /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:54:33] "[32mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/index.html HTTP/1.1[0m" 302 -
+127.0.0.1 - - [04/Aug/2022 18:54:33] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:54:33] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/GPTvsBERT.png HTTP/1.1[0m" 200 -
+USER INPUT: I hate my life.  I can't bear living.  It's too much.  I just want it all to end.
+
+###
+
+
+127.0.0.1 - - [04/Aug/2022 18:54:45] "[37mPOST /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:01] "[32mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/index.html HTTP/1.1[0m" 302 -
+127.0.0.1 - - [04/Aug/2022 18:55:01] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:20] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:22] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/testimonials/testimonials-Jonathan.jpeg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:40] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:40] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:40] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap-icons/bootstrap-icons.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:40] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/glightbox/css/glightbox.min.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:40] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/aos/aos.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:40] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/swiper/swiper-bundle.min.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:40] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/css/main.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:40] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/fontawesome-free/css/all.min.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:40] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:40] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/purecounter/purecounter_vanilla.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:40] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:40] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:40] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:40] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/aos/aos.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:40] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/php-email-form/validate.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:40] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/js/main.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:40] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/monkey.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:40] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/TedxTalk.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:40] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/istockphoto-1183344756-170667a.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:40] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/2022-08-03%2012_46_24-a3835678a2fa10fc268612f811f355a57985d575_2_1035x541.jpeg%20‎-%20Photos.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:40] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/processing_lg.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:40] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/pipeline_iteration.webp HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:40] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/pipeline_website_development.webp HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:40] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff2?8d200481aa7f02a2d63a331fc782cfaf HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:40] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/data.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:40] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:41] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/background-2.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:41] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/logos/concel-2.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:41] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/logos/MentalHealthForum.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:41] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/logos/concel-2-collect.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:41] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:41] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap-icons/bootstrap-icons.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:41] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/glightbox/css/glightbox.min.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:41] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:41] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/fontawesome-free/css/all.min.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:41] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap-icons/bootstrap-icons.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:41] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/glightbox/css/glightbox.min.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:41] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/swiper/swiper-bundle.min.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:41] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:41] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/aos/aos.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:41] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/css/main.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:41] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:41] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/purecounter/purecounter_vanilla.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:41] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:41] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/php-email-form/validate.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:41] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/js/main.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:41] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/aos/aos.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:41] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/monkey.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:41] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/TedxTalk.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:41] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/istockphoto-1183344756-170667a.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:41] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/processing_lg.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:41] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/2022-08-03%2012_46_24-a3835678a2fa10fc268612f811f355a57985d575_2_1035x541.jpeg%20‎-%20Photos.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:41] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/pipeline_iteration.webp HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:41] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:41] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/pipeline_website_development.webp HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:41] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/data.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:41] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/logos/concel-2.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:41] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/logos/MentalHealthForum.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:41] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/logos/concel-2-collect.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:41] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/other-openai-thing-2.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:41] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/logos/MentalHealthForum-process.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:41] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/GPTvsBERT.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:41] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/logos/abomination-2.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:41] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:42] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff2?8d200481aa7f02a2d63a331fc782cfaf HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:42] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/conclusions_significance.webp HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:42] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/openai-training-2.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:42] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:42] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/background-2.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:42] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff?8d200481aa7f02a2d63a331fc782cfaf HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:42] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap-icons/bootstrap-icons.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:42] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:42] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/fontawesome-free/css/all.min.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:42] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/purecounter/purecounter_vanilla.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:42] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:42] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/pipeline_website_development.webp HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:42] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/aos/aos.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:42] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:42] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/fontawesome-free/css/all.min.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:42] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:42] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap-icons/bootstrap-icons.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:42] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/glightbox/css/glightbox.min.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:42] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/swiper/swiper-bundle.min.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:42] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/aos/aos.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:42] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:42] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/css/main.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:42] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:42] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:42] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/purecounter/purecounter_vanilla.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:42] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:42] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/aos/aos.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:42] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/php-email-form/validate.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:42] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/js/main.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:42] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/TedxTalk.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:42] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/2022-08-03%2012_46_24-a3835678a2fa10fc268612f811f355a57985d575_2_1035x541.jpeg%20‎-%20Photos.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:42] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/istockphoto-1183344756-170667a.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:42] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:42] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap-icons/bootstrap-icons.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:42] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/swiper/swiper-bundle.min.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:42] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/glightbox/css/glightbox.min.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:42] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/fontawesome-free/css/all.min.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:43] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/aos/aos.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:43] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/css/main.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:43] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:43] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/purecounter/purecounter_vanilla.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:43] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:43] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/aos/aos.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:43] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:43] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/php-email-form/validate.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:43] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/js/main.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:43] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/TedxTalk.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:43] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/monkey.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:43] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/istockphoto-1183344756-170667a.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:43] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/processing_lg.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:43] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/2022-08-03%2012_46_24-a3835678a2fa10fc268612f811f355a57985d575_2_1035x541.jpeg%20‎-%20Photos.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:43] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/pipeline_iteration.webp HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:43] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/pipeline_website_development.webp HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:43] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/data.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:43] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/logos/concel-2.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:43] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/logos/MentalHealthForum.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:43] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff2?8d200481aa7f02a2d63a331fc782cfaf HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:43] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/logos/concel-2-collect.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:43] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/logos/MentalHealthForum-process.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:43] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/logos/abomination-2.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:43] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/background-2.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:43] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/other-openai-thing-2.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:43] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/GPTvsBERT.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:43] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/openai-training-2.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:43] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/conclusions_significance.webp HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:43] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/conclusions_technology.webp HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:43] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/conclusions_performance.jpeg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:43] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/testimonials/testimonials-Jonathan.jpeg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:43] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/testimonials/testimonials-ethan.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:43] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/testimonials/testimonials-3.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:43] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/testimonials/testimonials-caleb.jpeg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:44] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/testimonials/testimonials-4.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:44] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/testimonials/testimonials-5.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 18:55:44] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/chicago-skyline-rosanne-jordan.webp HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 19:17:11] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 19:19:01] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 19:26:05] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 19:26:05] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap-icons/bootstrap-icons.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 19:26:05] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 19:26:05] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/glightbox/css/glightbox.min.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 19:26:05] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/aos/aos.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 19:26:05] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/swiper/swiper-bundle.min.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 19:26:05] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/fontawesome-free/css/all.min.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 19:26:05] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/css/main.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 19:26:05] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 19:26:05] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/purecounter/purecounter_vanilla.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 19:26:05] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 19:26:05] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 19:26:05] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/aos/aos.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 19:26:05] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/php-email-form/validate.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 19:26:05] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/monkey.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 19:26:05] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/js/main.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 19:26:05] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/TedxTalk.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 19:26:05] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/istockphoto-1183344756-170667a.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 19:26:05] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/2022-08-03%2012_46_24-a3835678a2fa10fc268612f811f355a57985d575_2_1035x541.jpeg%20‎-%20Photos.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 19:26:05] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/processing_lg.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 19:26:05] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/pipeline_iteration.webp HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 19:26:05] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff2?8d200481aa7f02a2d63a331fc782cfaf HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 19:26:05] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/pipeline_website_development.webp HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 19:26:05] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/background-2.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 19:26:05] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/data.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 19:26:05] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/logos/concel-2.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 19:26:05] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/logos/MentalHealthForum.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 19:26:05] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/logos/concel-2-collect.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 19:26:05] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/logos/MentalHealthForum-process.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 19:26:05] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/logos/abomination-2.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 19:26:06] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/other-openai-thing-2.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 19:26:06] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/GPTvsBERT.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 19:26:06] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/openai-training-2.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 19:26:06] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/conclusions_significance.webp HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 19:26:06] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/conclusions_technology.webp HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 19:26:06] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/conclusions_performance.jpeg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 19:26:06] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/testimonials/testimonials-Jonathan.jpeg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 19:26:06] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/testimonials/testimonials-ethan.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 19:26:06] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/testimonials/testimonials-3.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 19:26:06] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/testimonials/testimonials-caleb.jpeg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 19:26:07] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/chicago-skyline-rosanne-jordan.webp HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 19:26:07] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/testimonials/testimonials-4.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 19:26:07] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/static/assets/img/testimonials/testimonials-5.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 19:49:14] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+USER INPUT: I am not happy.
+
+###
+
+
+127.0.0.1 - - [04/Aug/2022 19:49:38] "[37mPOST /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+USER INPUT: I am not happy.
+
+###
+
+
+127.0.0.1 - - [04/Aug/2022 19:49:46] "[37mPOST /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+USER INPUT: I am not happy.
+
+###
+
+
+127.0.0.1 - - [04/Aug/2022 19:49:51] "[37mPOST /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+USER INPUT: I am not happy.
+
+###
+
+
+127.0.0.1 - - [04/Aug/2022 19:50:04] "[37mPOST /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+USER INPUT: I am not happy.
+
+###
+
+
+127.0.0.1 - - [04/Aug/2022 19:50:07] "[37mPOST /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+USER INPUT: I am not happy.
+
+###
+
+
+127.0.0.1 - - [04/Aug/2022 19:50:15] "[37mPOST /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+USER INPUT: I am not happy.
+
+###
+
+
+127.0.0.1 - - [04/Aug/2022 19:50:19] "[37mPOST /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+USER INPUT: I am not happy.
+
+###
+
+
+127.0.0.1 - - [04/Aug/2022 19:50:21] "[37mPOST /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 19:50:27] "[32mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/index.html HTTP/1.1[0m" 302 -
+127.0.0.1 - - [04/Aug/2022 19:50:27] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 19:56:12] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 20:04:12] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 20:05:13] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 20:06:04] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 20:07:24] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 20:07:59] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 20:08:41] "[32mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/index.html HTTP/1.1[0m" 302 -
+127.0.0.1 - - [04/Aug/2022 20:08:42] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 20:10:08] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 20:10:49] "[32mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/index.html HTTP/1.1[0m" 302 -
+127.0.0.1 - - [04/Aug/2022 20:10:49] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 20:11:22] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 20:11:26] "[32mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/index.html HTTP/1.1[0m" 302 -
+127.0.0.1 - - [04/Aug/2022 20:11:26] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 20:17:21] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+127.0.0.1 - - [04/Aug/2022 20:18:30] "[37mGET /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -
+USER INPUT: I just hate my life. I can't bear it anymore.  Every waking moment is just too much.  I just want to die.
+
+###
+
+
+127.0.0.1 - - [04/Aug/2022 20:18:59] "[37mPOST /3df115f7-b265-4ae7-8859-4c52553a6d3a/port/12346/try-our-model HTTP/1.1[0m" 200 -

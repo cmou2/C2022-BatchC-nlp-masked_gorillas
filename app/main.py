@@ -3,7 +3,7 @@ from flask import Flask, render_template, request, redirect, url_for
 from utils import get_base_url
 import openai
 import requests
-openai.api_key = "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"
+openai.api_key = "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"
 from nltk.tokenize import sent_tokenize
 
 # setup the webserver

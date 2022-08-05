@@ -6,8 +6,9 @@
     <title> NLP Therapy Chatbot </title>
     <meta content="" name="description">
     <meta content="" name="keywords">
-    <!-- Favicons -->
-    <link href="{{url_for('static', filename = 'assets/img/favicon.png'         )}}" rel="icon">
+    <!-- Favicons 
+    <link href="{{url_for('static', filename = 'assets/img/favicon.png'         )}}" rel="icon">-->
+    <link rel="icon" sizes="192x192" href="https://static.wixstatic.com/media/12b467_a4ceef0f338c41c7885cb083ea36a00f%7Emv2_d_1742_1743_s_2.png/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/12b467_a4ceef0f338c41c7885cb083ea36a00f%7Emv2_d_1742_1743_s_2.png">
     <link href="{{url_for('static', filename = 'assets/img/apple-touch-icon.png')}}" rel="apple-touch-icon">
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com" rel="preconnect">
@@ -65,9 +66,12 @@
         
             <li><a href="#hero"             >Home</a></li>
             <li><a href="#about"            >Introduction</a></li>
+            <li><a href="#pipeline"         >Pipeline</a></li>
             <li><a href="#featured-services">Data</a></li>
+            <li><a href="#modeling"         >Modeling</a></li>
             <li><a href="#features"         >Conclusion</a></li>
             <li><a href="#pricing"          >References</a></li>
+            <li><a href="#our-team"         >Our Team</a></li>
             
             <li><a class="get-a-quote" href="try-our-model">Try Our Model</a></li>
           </ul>
@@ -95,7 +99,7 @@
                   <span class="purecounter" data-purecounter-duration="1"
                   data-purecounter-end="20" data-purecounter-start="0"></span>
                   <p>
-                    Percent of people suffer from mental issues at any time.
+                    % people suffer from mental issues at any time
                   </p>
                 </div>
               </div>
@@ -106,7 +110,7 @@
                   <span class="purecounter" data-purecounter-duration="1"
                   data-purecounter-end="10" data-purecounter-start="0"></span>
                   <p>
-                    Percent of people who suffer from mental issues commit suicide.
+                    % people suffer from mental issues commit suicide
                   </p>
                 </div>
               </div>
@@ -117,8 +121,7 @@
                   <span class="purecounter" data-purecounter-duration="1"
                   data-purecounter-end="100" data-purecounter-start="0"></span>
                   <p>
-                    The average cost(in dollars) of therapy in the United
-                    States
+                    $ averge cost of therapy in US
                   </p>
                 </div>
               </div>
@@ -129,7 +132,7 @@
                   <span class="purecounter" data-purecounter-duration="1"
                   data-purecounter-end="76" data-purecounter-start="0"></span>
                   <p>
-                    Percent of people believe therapy is beneficial for mental health.
+                    % people believe therapy is beneficial for mental health
                   </p>
                 </div>
               </div>
@@ -148,9 +151,17 @@
     <main id="main">
       <!-- ======= About Us Section Team 2======= -->
       <section class="about pt-0" id="about">
+        <br>
         <div class="container" data-aos="fade-up">
+          <div class="section-header">
+              <span>Introduction</span>
+                <h2>
+                  Introduction
+                </h2>
+           </div>
           <br>
-          <br>
+    
+          
 
           <div class="row gy-2">
             <div class=
@@ -162,11 +173,9 @@
               <a class="glightbox play-btn" href="https://www.youtube.com/watch?v=ZkTvw3usMw4&amp;ab_channel=TEDxTalks">
               </a>
             </div>
-
+          
             <div class="col-lg-6 content order-last order-lg-first">
-              <h3>
-                Introduction
-              </h3>
+     
 
               <p>
                 Professional therapy can be shameful, expensive, time consuming, and difficult to acquire. Thus we made <b>The NLP Therapy Chatbot</b> to solve these problems.
@@ -432,7 +441,7 @@
       
       
       <!-- ======= Features Section ======= -->
-    <section id="features" class="features">
+    <section id="modeling" class="features">
       <div class="container">
         <div class="container">
           <div class="section-header">
@@ -442,13 +451,13 @@
 
         <div class="row gy-4 align-items-center features-item" data-aos="fade-up">
 
-          <div class="col-md-4">
-            <img src="{{url_for('static', filename = 'assets/img/logos/other-openai-thing.png')}}" class="img-fluid" alt="">
+          <div class="col-md-5">
+            <img src="{{url_for('static', filename = 'assets/img/other-openai-thing-2.png')}}" class="img-fluid" alt="">
           </div>
           <div class="col-md-7">
             <h3>What is GPT-3?</h3>
             <p class="fst-italic">
-              GTP-3 is a neural network made by Open-AI capable of generating text
+              GPT-3 is a neural network made by Open-AI capable of generating text
             </p>
             <ul>
               <li><i class="bi bi-check"></i> Created by Open-AI</li>
@@ -458,20 +467,38 @@
         </div><!-- Features Item -->
 
         <div class="row gy-4 align-items-center features-item" data-aos="fade-up">
-          <div class="col-md-2 order-1 order-md-2">
-            <img src="{{url_for('static', filename = 'assets/img/logos/openai-question.png')}}" class="img-fluid" alt="">
+          <div class="col-md-5 order-1 order-md-2">
+            <img src="{{url_for('static', filename = 'assets/img/GPTvsBERT.png')}}" class="img-fluid" alt="">
           </div>
           <div class="col-md-7 order-2 order-md-1">
             <h3>Why are we using GPT-3?</h3>
-            <p>
-              GPT-3 is a cutting edge artificial intelligent model that we used to train our model.  However, it is an expensive model and had long training times, but it was worth the quality.
-            </p>
+            
+              
+              
+<ul>
+  <li>GPT-3 is a <b>cutting edge artificial intelligence model</b> that we used to train our model.  </li>
+  <div style="margin-left:30px">
+    <li><i class="bi bi-check"></i>It is an <b>expensive model</b> and had <b>long training times.</b> </li>
+    <li><i class="bi bi-check"></i>In the end, <b>it was worth the quality.</b>  </li>
+  </div>
+ <li>GPT-3 is not the only model on the market.  </li>
+  <br>
+  <li>Another one, named <b>BERT</b>, is good at sentiment analysis and name entity recognition.</li>
+  <div style="margin-left:30px">
+     <li><i class="bi bi-check"></i>(i.e., determining whether amazon reviews are positive or negative)</li>
+    <li><i class="bi bi-check"></i><b>However, it isn't good at text generation. </b> </li>
+  </div>
+	
+  <li>GPT-3 model is one of the <b>best models</b> for text generation, so we used it to generate a response to <b>help the user</b> with their problems.</li>
+
+</ul>
+
           </div>
         </div><!-- Features Item -->
 
         <div class="row gy-4 align-items-center features-item" data-aos="fade-up">
-          <div class="col-md-2">
-            <img src="{{url_for('static', filename = 'assets/img/logos/openai-training.png')}}" class="img-fluid" alt="">
+          <div class="col-md-5">
+            <img src="{{url_for('static', filename = 'assets/img/openai-training-2.png')}}" class="img-fluid" alt="">
           </div>
           <div class="col-md-7">
             <h3>Training GPT-3</h3>
@@ -561,7 +588,7 @@
                 </li>
 
                 <li>
-                  <i class="bi bi-dot"></i> AITextGen
+                  <i class="bi bi-dot"></i> OpenAI
                 </li>
               </ul>
 
@@ -686,7 +713,7 @@
             <div class="col-lg-4" data-aos="fade-up" data-aos-delay="100">
               <div class="pricing-item">
                 <h3>
-                  Web Template
+                  Datasets
                 </h3>
 
                 <h4>
@@ -719,23 +746,23 @@
       </section>
             <div class="container" data-aos="fade-up">
           <div class="section-header">
-            <span>About Us</span>
+            <span>Testimonials</span>
             <h2>
-              About Us
+              Testimonials
             </h2>
           </div>
         </div>
       <!-- End References Section -->
       <!-- ======= Testimonials Section ======= -->
 
-      <section class="testimonials" id="testimonials" style="background-image:url({{url_for('static',filename='assets/img/chicago-skyline-rosanne-jordan.webp')}})">
+      <section class="testimonials" id="our-team" style="background-image:url({{url_for('static',filename='assets/img/chicago-skyline-rosanne-jordan.webp')}})">
         <div class="container">
           <div class="slides-1 swiper" data-aos="fade-up">
             <div class="swiper-wrapper">
               <div class="swiper-slide">
                 <div class="testimonial-item">
                   <img alt="" class="testimonial-img" src=
-                  "{{url_for('static', filename = 'assets/img/testimonials/testimonials-1.jpg')}}">
+                  "{{url_for('static', filename = 'assets/img/testimonials/testimonials-Jonathan.jpeg')}}">
                   <h3>
                     Chunjiang Mou
                   </h3>
@@ -752,7 +779,8 @@
                   </div>
 
                   <p>
-                    About Me Section
+                    <i class="bi bi-quote quote-icon-left"></i> I had a wonderful time in Batch C. My students are talented, innovative, and motivated. So proud of you! <i class=
+                    "bi bi-quote quote-icon-right"></i>
                   </p>
                 </div>
               </div>
@@ -778,7 +806,7 @@
                   </div>
 
                   <p>
-                    Insert About Me Section Here
+                    <i class="bi bi-quote quote-icon-left"></i> AI Camp has been a great experience to learn how AI technology actually connects to real world applications <i class="bi bi-quote quote-icon-right"></i>
                   </p>
                 </div>
               </div>
@@ -804,10 +832,7 @@
                   </div>
 
                   <p>
-                    <i class="bi bi-quote quote-icon-left"></i> Enim nisi quem
-                    export duis labore cillum quae magna enim sint quorum nulla
-                    quem veniam duis minim tempor labore quem eram duis noster
-                    aute amet eram fore quis sint minim. <i class=
+                    <i class="bi bi-quote quote-icon-left"></i> AI Camp has given me such an amazing experience.  I had the opportunity to learn so much, to practice skills, and to make new friends.  We put a lot of hard work into our model, training it over and over again...  every effort was worth it. <i class=
                     "bi bi-quote quote-icon-right"></i>
                   </p>
                 </div>
@@ -832,10 +857,12 @@
                     "bi bi-star-fill"></i><i class=
                     "bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
                   </div>
-
                   <p>
-                    About Me
+                  <i class="bi bi-quote quote-icon-left"></i>
+                    My experience at AI Camp was GREAT! I really enjoyed learning about AI and creating our chatbot. It was truly an amazing experience.<i class="bi bi-quote quote-icon-right"></i>
                   </p>
+
+            
                 </div>
               </div>
               <!-- End testimonial item -->
@@ -860,7 +887,7 @@
                   </div>
 
                   <p>
-                    <i class="bi bi-quote quote-icon-left"></i> About me <i class="bi bi-quote quote-icon-right"></i>
+                    <i class="bi bi-quote quote-icon-left"></i> AI camp was an amazing experience and I enjoyed learning how to create a chatbot which has therapeutic benefits. I loved discussing how to solve issues with my peers and work on the project as a team. <i class="bi bi-quote quote-icon-right"></i>
                   </p>
                 </div>
               </div>
@@ -875,7 +902,7 @@
                   </h3>
 
                   <h4>
-                    Entrepreneur
+                    AI Camp Student
                   </h4>
 
                   <div class="stars">
@@ -886,11 +913,7 @@
                   </div>
 
                   <p>
-                    <i class="bi bi-quote quote-icon-left"></i> Quis quorum
-                    aliqua sint quem legam fore sunt eram irure aliqua veniam
-                    tempor noster veniam enim culpa labore duis sunt culpa
-                    nulla illum cillum fugiat legam esse veniam culpa fore nisi
-                    cillum quid. <i class="bi bi-quote quote-icon-right"></i>
+                    <i class="bi bi-quote quote-icon-left"></i> AI Camp go brrrrrrrrrrrrr <i class="bi bi-quote quote-icon-right"></i>
                   </p>
                 </div>
               </div>
